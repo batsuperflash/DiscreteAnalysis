@@ -1,0 +1,35 @@
+1774817303: 25: Dmalloc version '5.5.2' from 'http://dmalloc.com/'
+1774817303: 25: flags = 0x4e48503, logfile '/work/new_dmalloc.log'
+1774817303: 25: interval = 100, addr = 0, seen # = 0, limit = 0
+1774817303: 25: threads enabled, lock-on = 0, lock-init = 2
+1774817303: 25: starting time = 1774817303
+1774817303: 25: process pid = 121
+1774817303: 25: Dumping Chunk Statistics:
+1774817303: 25: basic-block 4096 bytes, alignment 8 bytes
+1774817303: 25: heap address range: 0xffffbb75e000 to 0xffffbbd7a000, 6406144 bytes
+1774817303: 25:     user blocks: 65 blocks, 240640 bytes (79%)
+1774817303: 25:    admin blocks: 9 blocks, 36864 bytes (12%)
+1774817303: 25:    total blocks: 74 blocks, 303104 bytes
+1774817303: 25: heap checked 1
+1774817303: 25: alloc calls: malloc 16, calloc 0, realloc 0, free 9
+1774817303: 25: alloc calls: recalloc 0, memalign 0, posix_memalign 0, valloc 0
+1774817303: 25: alloc calls: new 0, delete 0
+1774817303: 25:   current memory in use: 195584 bytes (7 pnts)
+1774817303: 25:  total memory allocated: 219057 bytes (16 pnts)
+1774817303: 25:  max in use at one time: 210376 bytes (13 pnts)
+1774817303: 25: max alloced with 1 call: 72704 bytes
+1774817303: 25: max unused memory space: 31896 bytes (13%)
+1774817303: 25: top 10 allocations:
+1774817303: 25:  total-size  count in-use-size  count  source
+1774817303: 25:           0      0           0      0  Total of 0
+1774817303: 25: Dumping Not-Freed Pointers Changed Since Start:
+1774817303: 25:  not freed: '0xffffbb75e008|s1' (72704 bytes) from 'unknown'
+1774817303: 25:  not freed: '0xffffbba07008|s1' (32768 bytes) from 'unknown'
+1774817303: 25:  not freed: '0xffffbbc27008|s1' (32768 bytes) from 'unknown'
+1774817303: 25:  not freed: '0xffffbbd39008|s1' (32768 bytes) from 'unknown'
+1774817303: 25:  not freed: '0xffffbbd6b008|s1' (8192 bytes) from 'unknown'
+1774817303: 25:  not freed: '0xffffbbd6e008|s1' (8192 bytes) from 'unknown'
+1774817303: 25:  not freed: '0xffffbbd71008|s1' (8192 bytes) from 'unknown'
+1774817303: 25:  total-size  count  source
+1774817303: 25:           0      0  Total of 0
+1774817303: 25: ending time = 1774817303, elapsed since start = 0:00:00

@@ -1,0 +1,35 @@
+1774817281: 29: Dmalloc version '5.5.2' from 'http://dmalloc.com/'
+1774817281: 29: flags = 0x4e48503, logfile '/work/old_dmalloc.log'
+1774817281: 29: interval = 100, addr = 0, seen # = 0, limit = 0
+1774817281: 29: threads enabled, lock-on = 0, lock-init = 2
+1774817281: 29: starting time = 1774817281
+1774817281: 29: process pid = 119
+1774817281: 29: Dumping Chunk Statistics:
+1774817281: 29: basic-block 4096 bytes, alignment 8 bytes
+1774817281: 29: heap address range: 0xffff957ee000 to 0xffff95e02000, 6373376 bytes
+1774817281: 29:     user blocks: 66 blocks, 244736 bytes (79%)
+1774817281: 29:    admin blocks: 9 blocks, 36864 bytes (12%)
+1774817281: 29:    total blocks: 75 blocks, 307200 bytes
+1774817281: 29: heap checked 1
+1774817281: 29: alloc calls: malloc 18, calloc 0, realloc 0, free 11
+1774817281: 29: alloc calls: recalloc 0, memalign 0, posix_memalign 0, valloc 0
+1774817281: 29: alloc calls: new 0, delete 0
+1774817281: 29:   current memory in use: 195584 bytes (7 pnts)
+1774817281: 29:  total memory allocated: 219177 bytes (18 pnts)
+1774817281: 29:  max in use at one time: 210376 bytes (14 pnts)
+1774817281: 29: max alloced with 1 call: 72704 bytes
+1774817281: 29: max unused memory space: 31896 bytes (13%)
+1774817281: 29: top 10 allocations:
+1774817281: 29:  total-size  count in-use-size  count  source
+1774817281: 29:           0      0           0      0  Total of 0
+1774817281: 29: Dumping Not-Freed Pointers Changed Since Start:
+1774817281: 29:  not freed: '0xffff957ee008|s1' (72704 bytes) from 'unknown'
+1774817281: 29:  not freed: '0xffff959e7008|s1' (32768 bytes) from 'unknown'
+1774817281: 29:  not freed: '0xffff95a97008|s1' (32768 bytes) from 'unknown'
+1774817281: 29:  not freed: '0xffff95cb7008|s1' (32768 bytes) from 'unknown'
+1774817281: 29:  not freed: '0xffff95df3008|s1' (8192 bytes) from 'unknown'
+1774817281: 29:  not freed: '0xffff95df6008|s1' (8192 bytes) from 'unknown'
+1774817281: 29:  not freed: '0xffff95df9008|s1' (8192 bytes) from 'unknown'
+1774817281: 29:  total-size  count  source
+1774817281: 29:           0      0  Total of 0
+1774817281: 29: ending time = 1774817281, elapsed since start = 0:00:00
