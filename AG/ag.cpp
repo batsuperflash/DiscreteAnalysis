@@ -1,4 +1,4 @@
-#include <bits/stdc++.h> 
+#include <bits/stdc++.h> //blablabla
 
 using namespace std; // чтобы не писать std:: перед vector, cout и т.д.
 
