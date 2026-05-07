@@ -1,4 +1,4 @@
-#include <bits/stdc++.h> // подключает почти все стандартные библиотеки 
+#include <bits/stdc++.h> 
 
 using namespace std; // чтобы не писать std:: перед vector, cout и т.д.
 
